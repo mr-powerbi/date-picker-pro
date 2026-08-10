@@ -19,4 +19,4 @@ Q: How do I use a disconnected table for Today reference?
 A: Create a DAX measure (e.g. TodayRef = MAX(MyTable[Date])) and place it in the "Today reference" field.
 
 Contact Support
-Email: kontakt@mr-powerbi.pl
+Email: support@mr-powerbi.pl
