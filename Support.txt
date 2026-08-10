@@ -1,0 +1,22 @@
+Getting Started
+
+Add the visual to your report
+Drag a Date/DateTime column to the "Date field" role
+Optionally add a date measure to "Today reference (Latest date)"
+Modes
+
+Between: select a fixed date range using date pickers
+Relative: select a rolling range (e.g. Last 3 Months)
+Known limitations
+
+The visual must have enough space to display all controls
+Dropdown menus cannot extend beyond the visual frame
+FAQ
+Q: Why doesn't my date column work?
+A: Use a raw Date/DateTime column, not a hierarchy (Year/Quarter/Month).
+
+Q: How do I use a disconnected table for Today reference?
+A: Create a DAX measure (e.g. TodayRef = MAX(MyTable[Date])) and place it in the "Today reference" field.
+
+Contact Support
+Email: kontakt@mr-powerbi.pl
