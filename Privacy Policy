@@ -1,0 +1,14 @@
+Data Collection
+Universal Date Range Slicer does not collect, transmit, or store any personal data or user information. The visual operates entirely within the Power BI client environment.
+
+Data Processing
+All data processing occurs locally within your Power BI report. The visual reads date/datetime column values from your data model solely to display a date range selector. No data is sent to any external server or third party.
+
+External Connections
+This visual makes no external network requests and does not communicate with any remote services.
+
+Cookies
+This visual does not use cookies or any persistent tracking technology.
+
+Contact
+If you have questions about this privacy policy, please contact: kontakt@mr-powerbi.pl
